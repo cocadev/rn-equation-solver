@@ -1,4 +1,4 @@
-# system-equation-solver
+# React-Native system-equation-solver
 
 Dependencies include:
 <br> redux react-redux
